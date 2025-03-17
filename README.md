@@ -1,23 +1,52 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=120&section=header" alt="header"/>
+
 ## Hi there 👋
 
 ### My mission
 I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
 
-### Main skills
+
+### 🌟 About Me
+- 🔭 I’m currently working on cloud-native applications, microservices, and event-driven architectures.
+- 🌱 I’m currently learning AI/ML integration in software systems and distributed architectures.
+- 👯 I’m looking to collaborate on open-source projects related to .NET, cloud computing, and microservices.
+- 🤔 I’m looking for help with optimizing serverless architectures and Kubernetes scaling strategies.
+- 💬 Ask me about .NET Core, cloud solutions, event-driven architecture, and DevOps best practices.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/kirantechbee/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="25" height="25"/>
+    </a>
+- ⚡ Fun fact: I love exploring new tech stacks and automating everything possible!
+
+
+### 🛠 Main skills
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,react,angular,kubernetes,terraform,azure,aws)](https://skillicons.dev)
 
+---
 
-<!--
-**kiranm03/kiranm03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats  
 
-Here are some ideas to get you started:
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kiranm03&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranm03&theme=tokyonight" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Recent GitHub Activity  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiranm03&theme=react-dark" />
+</p>
+
+---
+
+
+### 📬 Let’s Connect!  
+
+💌 Reach me at [kiranmandalapu03@gmail.com](mailto:kiranmandalapu03@gmail.com)  
+🌐 Check out my portfolio on [GitHub](https://github.com/kiranm03)  
+💼 Connect on <a href="https://www.linkedin.com/in/kirantechbee/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="25" height="25"/>
+    </a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=120&section=footer" alt="footer"/>
