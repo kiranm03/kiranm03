@@ -16,7 +16,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 
 ### 🛠 Main skills
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,react,angular,docker,kubernetes,terraform,azure,aws&perline=5)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,react,angular,docker,kubernetes,terraform,azure,aws,dynamodb,git,postgres,powershell,py&perline=5)
 
 ---
 
