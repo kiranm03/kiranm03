@@ -18,6 +18,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 ### 🛠 Main skills
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,react,angular,kubernetes,terraform,azure,aws)](https://skillicons.dev)
 
+---
 
 ### 📊 GitHub Stats  
 
