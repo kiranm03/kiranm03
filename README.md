@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### My mission
+I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
+
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,react,angular,kubernetes,terraform,azure,aws)](https://skillicons.dev)
+
+
 <!--
 **kiranm03/kiranm03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
