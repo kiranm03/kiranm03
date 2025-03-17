@@ -41,7 +41,3 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiranm03&theme=react-dark" />
 </p>
-
----
-
-
