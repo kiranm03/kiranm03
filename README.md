@@ -27,8 +27,6 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranm03&theme=tokyonight" />
 </p>
 
----
-
 ## 🔥 Recent GitHub Activity  
 
 <p align="center">
@@ -36,7 +34,6 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 </p>
 
 ---
-
 
 ### 📬 Let’s Connect!  
 
