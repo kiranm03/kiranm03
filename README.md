@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=120&section=header" alt="header"/>
-
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D5E3F0&height=120&section=header" alt="header"/>
 
 ### My mission
 I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
@@ -17,6 +15,17 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 ### 🛠 Main skills
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,react,angular,docker,kubernetes,terraform,azure,aws,dynamodb,git,postgres,powershell,py&perline=5)
+
+### 📬 Let’s Connect!  
+
+💌 Reach me at [kiranmandalapu03@gmail.com](mailto:kiranmandalapu03@gmail.com)  
+🌐 Check out my portfolio on [GitHub](https://github.com/kiranm03)  
+💼 Connect on 
+<a href="https://www.linkedin.com/in/kirantechbee/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="25" height="25"/>
+    </a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D5E3F0&height=120&section=footer" alt="footer"/>
 
 ---
 
@@ -35,12 +44,4 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 ---
 
-### 📬 Let’s Connect!  
 
-💌 Reach me at [kiranmandalapu03@gmail.com](mailto:kiranmandalapu03@gmail.com)  
-🌐 Check out my portfolio on [GitHub](https://github.com/kiranm03)  
-💼 Connect on <a href="https://www.linkedin.com/in/kirantechbee/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="25" height="25"/>
-    </a>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=120&section=footer" alt="footer"/>
