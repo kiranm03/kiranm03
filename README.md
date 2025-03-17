@@ -18,16 +18,15 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 ### 🛠 Main skills
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,react,angular,kubernetes,terraform,azure,aws)](https://skillicons.dev)
 
----
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats  
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kiranm03&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranm03&theme=tokyonight" />
 </p>
 
-## 🔥 Recent GitHub Activity  
+### 🔥 Recent GitHub Activity  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiranm03&theme=react-dark" />
