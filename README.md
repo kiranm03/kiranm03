@@ -12,9 +12,6 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 - 👯 I’m looking to collaborate on open-source projects related to .NET, cloud computing, and microservices.
 - 🤔 I’m looking for help with optimizing serverless architectures and Kubernetes scaling strategies.
 - 💬 Ask me about .NET Core, cloud solutions, event-driven architecture, and DevOps best practices.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/kirantechbee/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="25" height="25"/>
-    </a>
 - ⚡ Fun fact: I love exploring new tech stacks and automating everything possible!
 
 
@@ -25,7 +22,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 ## 📊 GitHub Stats  
 
-<p align="center">
+<p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kiranm03&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranm03&theme=tokyonight" />
 </p>
