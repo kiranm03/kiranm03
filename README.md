@@ -16,10 +16,9 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 ### 📬 Let’s Connect!  
 
-💌 Reach me at [kiranmandalapu03@gmail.com](mailto:kiranmandalapu03@gmail.com)  
+💌 Reach me at  
 🌐 Check out my portfolio on [GitHub](https://github.com/kiranm03)  
-💼 Connect on 
-<a href="https://www.linkedin.com/in/kirantechbee/">
+💼 Connect on">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="25" height="25"/>
     </a>
 
